@@ -131,4 +131,5 @@ Os testes confirmaram o funcionamento dos códigos HTTP `200`, `201`, `400` e `4
 
 ## Autor
 
-Projeto desenvolvido para fins acadêmicos na implementação de uma API REST para gerenciamento de usuários. Bernardo Resende.
+Projeto desenvolvido para fins acadêmicos na implementação de uma API REST para gerenciamento de usuários. 
+Bernardo Resende.
